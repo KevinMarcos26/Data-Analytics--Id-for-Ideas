@@ -1,5 +1,5 @@
-# Data-Analitycs---Id-for-Ideas
-Data Analitycs - Id for Ideas
+# Data-Analytics---Id-for-Ideas
+Data Analytics - Id for Ideas
 
 PROYECTO: SERVICIO AUTOMOTRIZ “AUTO MOTORS” 
 Empresa colombiana con franquicias. Ofrece servicios y productos como cambio de 
